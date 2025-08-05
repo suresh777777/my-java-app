@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        maven 'Maven 3.6.3'  // 👈 matches your Jenkins tool config
+        maven 'Maven-3.6.3'  // 👈 matches your Jenkins tool config
     }
 
     stages {
